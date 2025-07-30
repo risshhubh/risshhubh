@@ -23,7 +23,7 @@ I'm a passionate Full Stack Developer who loves building sleek, responsive web a
 
 - 📫 How to reach me:  
   - 📧 [rishabhsrivastava921@gmail.com](mailto:rishabhsrivastava921@gmail.com)  
-  - 🔗 [LinkedIn – Rishabh Srivastava](https://www.linkedin.com/in/rishabh-srivastava-929b59236/)
+  - 🔗 [LinkedIn – Rishabh Srivastava](https://www.linkedin.com/in/rishabh-srivastava-5a509232a/)
 
 
 - ⚡ Fun fact: I built a mobile UI-style portfolio just for fun—and it turned out awesome.
